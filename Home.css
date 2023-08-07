@@ -148,11 +148,13 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 458px;
+    min-height: 869px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 340px) / 2) + 340px);
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-image-1 {
