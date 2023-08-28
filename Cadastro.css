@@ -674,7 +674,7 @@
 }
 
 .u-section-8 .u-sheet-1 {
-  min-height: 1100px;
+  min-height: 1201px;
 }
 
 .u-section-8 .u-text-1 {
@@ -790,7 +790,13 @@
 .u-section-8 .u-text-10 {
   font-size: 1.5rem;
   width: 847px;
-  margin: 14px auto 0;
+  margin: 13px auto 0;
+}
+
+.u-section-8 .u-text-11 {
+  font-size: 1.5rem;
+  width: 847px;
+  margin: 21px auto 0;
 }
 
 .u-section-8 .u-btn-1 {
@@ -799,13 +805,13 @@
   font-size: 1.25rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: 23px auto 44px;
+  margin: 26px auto 50px;
   padding: 29px 197px;
 }
 
 @media (max-width: 1199px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 1003px;
+    min-height: 1317px;
   }
 
   .u-section-8 .u-layout-cell-1 {
@@ -846,11 +852,15 @@
   .u-section-8 .u-text-8 {
     margin-top: 20px;
   }
+
+  .u-section-8 .u-btn-1 {
+    margin-bottom: 26px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 647px;
+    min-height: 748px;
   }
 
   .u-section-8 .u-layout-cell-1 {
@@ -878,15 +888,19 @@
   .u-section-8 .u-text-10 {
     width: 720px;
   }
+
+  .u-section-8 .u-text-11 {
+    width: 720px;
+  }
+
+  .u-section-8 .u-btn-1 {
+    margin-top: 9px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 1363px;
-  }
-
-  .u-section-8 .u-layout-wrap-1 {
-    margin-bottom: 52px;
+    min-height: 848px;
   }
 
   .u-section-8 .u-layout-cell-1 {
@@ -917,7 +931,7 @@
 
   .u-section-8 .u-text-8 {
     font-size: 2.25rem;
-    margin-top: 0;
+    margin-top: 52px;
   }
 
   .u-section-8 .u-text-9 {
@@ -929,20 +943,22 @@
     width: 540px;
   }
 
+  .u-section-8 .u-text-11 {
+    font-size: 1rem;
+    width: 540px;
+    margin-top: 25px;
+  }
+
   .u-section-8 .u-btn-1 {
+    margin-top: 35px;
     margin-left: 0;
     margin-right: 0;
-    margin-bottom: 45px;
     padding-right: 151px;
     padding-left: 149px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-8 .u-sheet-1 {
-    min-height: 1558px;
-  }
-
   .u-section-8 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
@@ -951,7 +967,6 @@
 
   .u-section-8 .u-layout-wrap-1 {
     margin-top: 0;
-    margin-bottom: 0;
   }
 
   .u-section-8 .u-layout-cell-1 {
@@ -972,13 +987,19 @@
 
   .u-section-8 .u-text-8 {
     font-size: 1.875rem;
+    margin-top: 0;
   }
 
   .u-section-8 .u-text-10 {
     width: 340px;
   }
 
+  .u-section-8 .u-text-11 {
+    width: 340px;
+  }
+
   .u-section-8 .u-btn-1 {
+    margin-top: 9px;
     padding-right: 50px;
     padding-left: 49px;
   }
